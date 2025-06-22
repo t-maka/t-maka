@@ -12,6 +12,10 @@ IT Professional transitioning into GRC & Cybersecurity Analysis | Passionate abo
 
 - **[Threat Hunting Scenario (Tor Browser Usage)]()**
 
+## 🛡️ Governance Risk and Compliance Project
+- **[Governance Risk and Compliance Program Implementation](https://github.com/t-maka/GRC-Portfolio-Project)**
+
+
 <hr/>
 
 ## 🤳 Connect With Me
