@@ -6,11 +6,11 @@ IT Professional transitioning into GRC & Cybersecurity Analysis | Passionate abo
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/t-maka/vulnerability-management-program/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)]()**
+- **[Threat Hunting Scenario (Sudden Network Slowdowns)](https://github.com/t-maka/Sudden-Network-Slowdowns)**
+- **[Threat Hunting Scenario (Unintended Internet Exposure of Devices)](https://github.com/t-maka/Unintended-Internet-Exposure-of-Devices)**
 
 ## 🛡️ Governance Risk and Compliance Project
 - **[Governance Risk and Compliance Program Implementation](https://github.com/t-maka/GRC-Portfolio-Project)**
