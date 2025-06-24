@@ -1,7 +1,23 @@
 
 # <a href="https://www.linkedin.com/in/makadjibeye-tinan/">Tinan Makadjibeye</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-IT Professional transitioning into GRC & Cybersecurity Analysis | Passionate about risk management, compliance, securing digital landscapes, and love tackling complex challenges through hands-on projects. I've worked on vulnerability management and threat detection projects, diving deep into the ever-evolving world of cybersecurity. Feel free to explore them and see how I've contributed to strengthening security operations and processes!
+## 👋 About Me
+
+I'm an **IT Professional transitioning into GRC and Cybersecurity Analysis**. I’m driven by the challenge of securing digital environments while ensuring organizations remain aligned with regulatory and industry standards. 
+I thrive on solving complex problems, analyzing risk, and creating structure through **hands-on, real-world projects** that strengthen both security posture and compliance maturity, and that make a tangible impact.
+
+🔐 Along my journey, I've worked on:
+
+- **Vulnerability Management** – identifying, prioritizing, and addressing security weaknesses.
+- **Threat Detection & Analysis** – investigating suspicious activity and improving defensive strategies.
+- **Governance, Risk, and Compliance (GRC)** – implementing frameworks and controls to ensure regulatory alignment and reduce risk.
+
+These experiences have deepened my understanding of real-world cyber threats, compliance obligations, and how to mitigate risks effectively.
+
+
+🚀 I invite you to explore my projects and see how I've contributed to strengthening security operations, enhancing compliance processes, and building a more resilient IT landscape.
+
+---
 
 ## ⚠️ Vulnerability Management Projects
 
