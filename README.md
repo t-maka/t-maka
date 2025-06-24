@@ -11,6 +11,7 @@ IT Professional transitioning into GRC & Cybersecurity Analysis | Passionate abo
 
 - **[Threat Hunting Scenario (Sudden Network Slowdowns)](https://github.com/t-maka/Sudden-Network-Slowdowns)**
 - **[Threat Hunting Scenario (Unintended Internet Exposure of Devices)](https://github.com/t-maka/Unintended-Internet-Exposure-of-Devices)**
+- **[Threat Hunting Scenario (Suspected Data Exfiltration from PIPd Employee)](https://github.com/t-maka/Suspected-Data-Exfiltration-from-PIPd-Employee/tree/main)**
 
 ## 🛡️ Governance Risk and Compliance Project
 - **[Governance Risk and Compliance Program Implementation](https://github.com/t-maka/GRC-Portfolio-Project)**
