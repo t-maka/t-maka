@@ -29,6 +29,10 @@ These experiences have deepened my understanding of real-world cyber threats, co
 - **[Threat Hunting Scenario (Unintended Internet Exposure of Devices)](https://github.com/t-maka/Unintended-Internet-Exposure-of-Devices)**
 - **[Threat Hunting Scenario (Suspected Data Exfiltration from PIPd Employee)](https://github.com/t-maka/Suspected-Data-Exfiltration-from-PIPd-Employee/tree/main)**
 
+## 🧯 Incident Response
+
+- **[Incident Response (Azure VM Brute Force Detection Response)](https://github.com/t-maka/Azure-VM-Brute-Force-Detection-Response)**
+
 ## 🛡️ Governance Risk and Compliance Project
 - **[Governance Risk and Compliance Program Implementation](https://github.com/t-maka/GRC-Portfolio-Project)**
 
