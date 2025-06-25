@@ -33,7 +33,7 @@ These experiences have deepened my understanding of real-world cyber threats, co
 
 - **[Incident Response (Azure VM Brute Force Detection Response)](https://github.com/t-maka/Azure-VM-Brute-Force-Detection-Response)**
 
-## 🛡️ Governance Risk and Compliance Project
+## 📋 Governance Risk and Compliance Projects
 - **[Governance Risk and Compliance Program Implementation](https://github.com/t-maka/GRC-Portfolio-Project)**
 
 
