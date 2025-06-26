@@ -32,6 +32,8 @@ These experiences have deepened my understanding of real-world cyber threats, co
 ## 🧯 Incident Response
 
 - **[Incident Response (Azure VM Brute Force Detection Response)](https://github.com/t-maka/Azure-VM-Brute-Force-Detection-Response)**
+- **[Incident Response (PowerShell Suspicious Web Request on Azure VM)](https://github.com/t-maka/PowerShell-Suspicious-Web-Request-on-Azure-VM/tree/main)**
+
 
 ## 📋 Governance Risk and Compliance Projects
 - **[Governance Risk and Compliance Program Implementation](https://github.com/t-maka/GRC-Portfolio-Project)**
