@@ -28,6 +28,8 @@ These experiences have deepened my understanding of real-world cyber threats, co
 - **[Threat Hunting Scenario (Sudden Network Slowdowns)](https://github.com/t-maka/Sudden-Network-Slowdowns)**
 - **[Threat Hunting Scenario (Unintended Internet Exposure of Devices)](https://github.com/t-maka/Unintended-Internet-Exposure-of-Devices)**
 - **[Threat Hunting Scenario (Suspected Data Exfiltration from PIPd Employee)](https://github.com/t-maka/Suspected-Data-Exfiltration-from-PIPd-Employee/tree/main)**
+- **[Threat Hunting Scenario (Tor Browsing usage)](https://github.com/t-maka/Threat-Hunting-Scenario-Tor)**
+  
 
 ## 🧯 Incident Response
 
